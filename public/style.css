@@ -1,0 +1,87 @@
+#settingsModalHeader {
+  font-family: 'Roboto Slab', serif;
+  padding-left: 0 !important;
+  padding-bottom: 12px;
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+#titleHeader {
+  margin-left: -12px !important
+}
+
+#settingsModalButton {
+  margin-left: 0;
+  margin-top: 5px;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 600;
+}
+
+#title {
+  font-size: 1.5rem;
+  color: white;
+  font-weight: 600;
+  font-family: 'Roboto Slab', serif;
+  border-left-color: #741b47;
+  margin-left: -25px;
+}
+
+#navbar {
+  background-color: #741b47;
+  border-color: #cfd8dc;
+  border-width: 1px;
+}
+
+#navbarSettings, #navbarData {
+  color: white;
+  font-size: 1.3rem;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 600;
+}
+
+#testResults .testSpeeds {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#testResults h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 600;
+}
+
+#testExpectations h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 600;
+}
+
+#testExpectations h3{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#tableContainer {
+  margin-top: 90px;
+}
+
+.inputHeader {
+  padding-bottom: 5px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.2rem;
+}
+
+.ui.inverted.menu .item:before {
+  background: #741b47 !important;
+}
+
+.ui.primary.button, .ui.primary.buttons .button {
+  margin-top: 30px;
+  background: #e0e1e2 none !important;
+  color: rgba(0,0,0,.6) !important;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 600;
+}
+
+.ui.primary.button, .ui.primary.buttons .button {
+  margin-top: 15px !important
+}
+
+/* font-family: 'Roboto Slab', serif; */
+/* font-family: 'Source Sans Pro', sans-serif; */
